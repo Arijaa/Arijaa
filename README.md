@@ -6,15 +6,7 @@ Hi there! I'm Arij Zahra Soula, a passionate data science enthusiast and compute
 
 I'm currently in my 5th year of computer science engineering studies at ESPRIT, specializing in data science. I have a strong mathematical background from my pre-engineering studies at the Preparatory School of Engineering of Tunis. My passion lies in unlocking insights from data through statistical analysis, machine learning algorithms, and data visualization techniques.
 
-## Goals 🎯
-
-As a data science enthusiast, my goals are:
-
-- 🚀 Master the art of machine learning and deep learning to tackle complex problems and drive innovation.
-- 🌟 Expand my expertise in data visualization to effectively communicate insights and findings.
-- 📈 Contribute to open-source projects to give back to the community and collaborate with other data enthusiasts.
-- 💡 Continue learning and staying updated with the latest advancements in data science and technology.
-- 🌐 Build a strong professional network and actively engage in the data science community.
+.
 
 ## Projects 🌸🛠️
 
