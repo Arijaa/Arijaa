@@ -31,5 +31,4 @@ You can connect with me on LinkedIn [here](https://www.linkedin.com/in/arij-zahr
 
 Thanks for stopping by! Happy coding! 🌸🚀
 
-![Excited Penguin](https://media.giphy.com/media/DpB9NBjny7jF1pd0yt2/giphy.gif)
 
